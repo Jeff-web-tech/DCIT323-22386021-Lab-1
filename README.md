@@ -1,1 +1,3 @@
 # DCIT323-22386021-Lab-1
+
+This is my DCIT 323 Lab 1.
